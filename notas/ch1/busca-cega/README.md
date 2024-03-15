@@ -7,3 +7,7 @@ As duas principais categorias são:
 - [Backtracking ou força bruta](./busca-força-bruta/backtracking.md)
 
 - Busca em Grafos
+
+## Exemplos práticos
+
+- [Sliding-Puzzle](sliding-puzzle.ipynb)
