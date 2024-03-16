@@ -11,8 +11,10 @@ Este repositório contém notas e exemplos sobre IA. A principal referência uti
 As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Problemas por Busca". Este explora como sistemas inteligentes utilizam estratégias de busca, tanto informadas (busca heurística) quanto não informadas (busca cega), para navegar eficientemente em espaços de estados e encontrar soluções para problemas complexos.
 
 - [Busca Cega](./notas/ch1/busca-cega/README.md)
-    - [Força Bruta](./notas/ch1/busca-cega/busca-força-bruta/backtracking.md)
-    - [Busca em Grafos](./notas/ch1/busca-cega/busca-em-grafos/busca-em-grafos.md) 
+
+    - [Força Bruta](./notas/ch1/busca-cega/backtracking.md)
+
+    - [Busca em Grafos](./notas/ch1/busca-cega/busca-em-grafos.md) 
 
 - [Busca Heurística](./notas/ch1/busca-heurística/README.md)
 
