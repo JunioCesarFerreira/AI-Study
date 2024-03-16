@@ -8,12 +8,6 @@ As duas principais categorias são:
 
 - [Busca em Grafos](./busca-em-grafos/busca-em-grafos.md)
 
-## Exemplos práticos
-
-- [Sliding-Puzzle](../exemplos/sliding-puzzle/sliding-puzzle.ipynb)
-
-- [N-Queen-Problem]
-
 ### Comparação dos Algoritmos de Busca Cega
 
 Avaliação dos algoritmos de busca em termos de:
@@ -35,3 +29,9 @@ Na tabela a seguir consideramos apenas buscas em grafos e consideramos:
 | **Busca de Custo Uniforme** | Sim, se o custo de cada passo é maior que algum ε | $O(b^{1+\lfloor C^* / \varepsilon \rfloor})$, onde $C^*$ é o custo da solução ótima e ε é o menor custo de qualquer ação | $O(b^{1+\lfloor C^* / \varepsilon \rfloor})$ | Sim, sempre encontra a solução de menor custo |
 
 Na tabela acima consideramos apenas buscas em grafos, pois para um espaço arbitrário de busca a pior complexidade do backtracking é $O(N!)$.
+
+## Notebooks de aplicações
+
+- [Sliding-Puzzle](../exemplos/sliding-puzzle/sliding-puzzle.ipynb)
+
+- [N-Queen-Problem]
