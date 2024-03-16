@@ -18,7 +18,12 @@ As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Probl
 
 - [Busca Heurística](./notas/ch1/busca-heurística/README.md)
 
+    - [Busca Gulosa](./notas/ch1/busca-heurística/busca-gulosa.md)
+
+    - [Busca A*](./notas/ch1/busca-heurística/busca-a-estrela.md)
 
 ## Exemplos
+
+- [Sliding Puzzle](./notas/ch1/exemplos/sliding-puzzle/sliding-puzzle.ipynb)
 
 ## Recursos
