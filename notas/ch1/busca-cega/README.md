@@ -32,6 +32,6 @@ Na tabela a seguir consideramos apenas buscas em grafos e consideramos:
 | **Backtracking**          | Sim, se o espaço de estado for finito | $O(b^m)$ | $O(bm)$ | Em geral não garante a otimalidade |
 | **Busca em Largura**      | Sim, se o fator de ramificação (b) é finito | $O(b^d)$ | $O(b^d)$ | Sim, se o custo do passo é o mesmo para todos os passos |
 | **Busca em Profundidade** | Não, pode ficar preso em loops; Sim, se o espaço de estado for finito e se limitar a profundidade | $O(b^m)$ | $O(bm)$ | Não, a primeira solução encontrada pode não ser a ótima |
-| **Busca de Custo Uniforme** | Sim, se o custo de cada passo é maior que algum ε | $O(b^{1+\lfloor C^*/ε \rfloor})$, onde $C^*$ é o custo da solução ótima e ε é o menor custo de qualquer ação | $O(b^{1+\lfloor C^*/ε \rfloor})$ | Sim, sempre encontra a solução de menor custo |
+| **Busca de Custo Uniforme** | Sim, se o custo de cada passo é maior que algum ε | $O(b^{1+\lfloor C^* / \varepsilon \rfloor})$, onde $C^*$ é o custo da solução ótima e ε é o menor custo de qualquer ação | $O(b^{1+\lfloor C^* / \varepsilon \rfloor})$ | Sim, sempre encontra a solução de menor custo |
 
 Na tabela acima consideramos apenas buscas em grafos, pois para um espaço arbitrário de busca a pior complexidade do backtracking é $O(N!)$.
