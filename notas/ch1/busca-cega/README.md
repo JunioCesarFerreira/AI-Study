@@ -16,7 +16,7 @@ Avaliação dos algoritmos de busca em termos de:
 - **Complexidade Espacial**: Refere-se à quantidade de memória necessária para o algoritmo executar.
 - **Otimalidade**: Indica se o algoritmo é capaz de encontrar a melhor solução possível.
 
-Na tabela a seguir consideramos apenas buscas em grafos e consideramos:
+Na tabela a seguir consideramos apenas buscas em grafos, sendo:
 - $b$ o fator de ramificação máximo
 - $d$ a profundidade da solução de menor custo
 - $m$ a profundidade máxima do espaço de estados (pode ser infinito!)
