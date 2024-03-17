@@ -22,7 +22,7 @@ As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Probl
 
     - [Busca A*](./notas/ch1/busca-heurística/busca-a-estrela.md)
 
-## Exemplos em Notebooks
+## Exemplos em Notebooks Python
 
 - [Sliding Puzzle](./notas/ch1/exemplos/sliding-puzzle/sliding-puzzle.ipynb)
 
