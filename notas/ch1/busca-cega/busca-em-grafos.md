@@ -10,7 +10,7 @@ A Busca em Largura e a Busca em Profundidade diferem principalmente na ordem em 
 
 - **Busca em Profundidade (DFS)**: Explora tão profundamente quanto possível ao longo de um ramo antes de retroceder. Esta abordagem é eficaz para situações que exigem a exploração de todas as possíveis soluções ou configurações.
 
-## Melhorias no Esboço
+## Esboço Geral
 
 Segue abaixo um esboço geral para o procedimento de busca em grafos:
 
