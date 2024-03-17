@@ -39,4 +39,4 @@ Este procedimento pode ser adaptado para BFS ou DFS dependendo da estrutura de d
 
 ---
 
-[Voltar ao README principal](../../README.md)
+[Voltar ao README principal](../../../README.md)
