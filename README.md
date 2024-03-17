@@ -6,26 +6,23 @@ Este repositório contém notas e exemplos sobre IA. A principal referência uti
 
 ## Notas
 
+### Resolvendo Problemas
+- [Agentes](./notas/ch1/agentes.md)
+- [Formulação de Problemas](./notas/ch1/formulação-do-problema.md)
+
 ### Resolvendo Problemas de Busca
 
 As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Problemas por Busca". Este explora como sistemas inteligentes utilizam estratégias de busca, tanto informadas (busca heurística) quanto não informadas (busca cega), para navegar eficientemente em espaços de estados e encontrar soluções para problemas complexos.
 
 - [Busca Cega](./notas/ch1/busca-cega/README.md)
-
     - [Força Bruta](./notas/ch1/busca-cega/backtracking.md)
-
     - [Busca em Grafos](./notas/ch1/busca-cega/busca-em-grafos.md) 
-
 - [Busca Heurística](./notas/ch1/busca-heurística/README.md)
-
     - [Busca Gulosa](./notas/ch1/busca-heurística/busca-gulosa.md)
-
     - [Busca A*](./notas/ch1/busca-heurística/busca-a-estrela.md)
 
 ## Notebooks de exemplos em Python
-
 - [Sliding Puzzle](./notas/ch1/exemplos/sliding-puzzle/sliding-puzzle.ipynb)
-
 - [Busca em grafo: BFS, DFS, GBFS, A*](./notas/ch1/exemplos/graph-search.ipynb)
 
 ## Recursos
