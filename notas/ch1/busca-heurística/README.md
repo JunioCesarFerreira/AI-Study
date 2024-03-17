@@ -28,3 +28,7 @@ Na tabela acima, $b$ é o fator de ramificação, $d$ é a profundidade da solu�
 - [Sliding-Puzzle](../exemplos/sliding-puzzle/sliding-puzzle.ipynb)
 
 - [N-Queen-Problem]
+
+---
+
+[Voltar ao README principal](../../../README.md)

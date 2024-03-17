@@ -19,3 +19,7 @@ Russell e Norvig discutem diferentes tipos de problemas encontrados em IA, cada 
 ## Sistema de Produção
 
 Um sistema de produção é um modelo computacional que aplica um **conjunto de regras** (ou produções) a um **banco de dados de conhecimento** (fatos) para inferir novos conhecimentos. Essas regras são condicionais do tipo "se-então" que representam o conhecimento sobre o domínio de problema de forma procedural. Os sistemas de produção são um método fundamental para implementar o raciocínio automatizado, onde as regras são aplicadas repetidamente para transformar os estados do problema até que uma solução seja alcançada. Esses sistemas são especialmente úteis em problemas de busca, otimização, e em ambientes onde o conhecimento pode ser facilmente expresso em regras lógicas.
+
+---
+
+[Voltar ao README principal](../../README.md)

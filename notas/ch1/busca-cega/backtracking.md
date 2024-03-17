@@ -47,3 +47,7 @@ Sendo:
 - `RESTANTE`: Retorna todas as regras restantes na lista de regras, excluindo a primeira.
 - `APLICAR_REGRA`: Aplica uma regra específica aos dados atuais, produzindo um novo conjunto de dados que representa o estado resultante.
 - `CONCATENAR`: Concatena uma regra `R` com um caminho previamente encontrado.
+
+---
+
+[Voltar ao README principal](../../../README.md)

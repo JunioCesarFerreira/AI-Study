@@ -51,3 +51,7 @@ Neste esboço:
 - **f(ESTADO)** é a soma de $g(ESTADO)$ com $h(ESTADO)$, determinando a ordem de exploração dos estados.
 
 A busca A* é completa e ótima quando a função heurística $h(n)$ é admissível, ou seja, nunca superestima o custo real de alcançar o objetivo a partir de $n$.
+
+---
+
+[Voltar ao README principal](../../../README.md)

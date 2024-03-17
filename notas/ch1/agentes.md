@@ -19,3 +19,7 @@ Os ambientes em que os agentes operam podem variar amplamente em complexidade e 
 - **Discretos** vs. **Contínuos**: Em ambientes discretos, há um número finito ou contável de estados e ações. Em ambientes contínuos, há um número infinito de possíveis estados ou ações.
 
 A compreensão e modelagem adequadas do ambiente são cruciais para o design de um agente eficaz. A estratégia do agente para alcançar seus objetivos depende não apenas de suas capacidades e tarefas, mas também das propriedades do ambiente em que opera.
+
+---
+
+[Voltar ao README principal](../../README.md)
