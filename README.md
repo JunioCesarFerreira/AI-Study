@@ -26,9 +26,6 @@ As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Probl
 - [Busca em grafo: BFS, DFS, GBFS, A*](./notas/ch1/exemplos/graph-search.ipynb)
 
 ## Apêndices
-
 - [Complexidade de Algoritmos e *Big O*](./notas/apendices/a-1.md)
-
 - [Breve revisão de Álgebra Linear](./notas/apendices/a-2.md)
-
 - [Breve revisão de Probabilidas e Distribuições](./notas/apendices/a-3.md)

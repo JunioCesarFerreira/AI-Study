@@ -2,6 +2,8 @@
 
 A abordagem de Busca A* (A estrela) para resolver problemas computacionais, incorporaremos a ideia de combinar o custo do caminho já percorrido com uma função heurística que estima o custo para alcançar o objetivo a partir do estado atual. A Busca A* escolhe o próximo estado a ser expandido com base no menor valor da função de avaliação $f(n) = g(n) + h(n)$, onde $g(n)$ é o custo do caminho do estado inicial até $n$, e $h(n)$ é a estimativa heurística do custo de $n$ até o objetivo.
 
+Para uma [heurística admissível](./heurística-admissível.md) $A^*$ encontra a solução ótima do problema.
+
 ## Funcionamento
 
 O procedimento de busca A* segue estes passos:
