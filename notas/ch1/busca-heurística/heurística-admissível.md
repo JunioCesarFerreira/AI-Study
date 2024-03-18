@@ -23,6 +23,10 @@ A demonstração é por contradição. Supomos que exista um caminho $P'$ de $n$
 
 Se $P'$ é mais curto que $P$, então o valor de $f$ para o último nó de $P'$ antes de alcançar o objetivo deve ser menor que o valor de $f$ para o último nó de $P$, devido ao custo menor $g(P')$ e à heurística admissível $h$.
 
-Porém, $A^*$ escolhe expandir os nós baseando-se no menor valor de $f(n)$. Portanto, se $P'$ fosse de fato mais curto, $A^*$ teria escolhido $P'$ em vez de $P$, o que contradiz a suposição inicial.
+Porém, $A^{*}$ escolhe expandir os nós baseando-se no menor valor de $f(n)$. Portanto, se $P'$ fosse de fato mais curto, $A^*$ teria escolhido $P'$ em vez de $P$, o que contradiz a suposição inicial.
 
 Sendo assim, a suposição de que existe um caminho $P'$ mais curto que o caminho $P$ encontrado por $A^*$ é falsa sob a condição de que $h$ é admissível. Logo, $A^*$ deve encontrar o caminho ótimo $P$ de $n$ a $k$.
+
+---
+
+[Voltar ao README inicial](../../../README.md)
