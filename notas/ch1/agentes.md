@@ -1,6 +1,6 @@
 ### Agentes e Ambientes
 
-O conceito de **agentes** que percebem e atuam dentro de seus respectivos **ambientes**. Um agente é qualquer entidade capaz de observar o ambiente através de **sensores** e agir sobre esse ambiente utilizando **atuadores**. Por exemplo, um robô aspirador de pó pode usar sensores para detectar a presença de sujeira no chão e um atuador para se movimentar e limpar a sujeira detectada.
+Um **agente** é qualquer entidade capaz de observar o **ambiente** através de **sensores** e agir sobre esse ambiente utilizando **atuadores**.
 
 A interação de um agente com seu ambiente pode ser descrita pelo **ciclo de percepção-ação**: em cada etapa do tempo, o agente recebe uma **percepção** (input) do ambiente através de seus sensores, processa essa informação e realiza uma **ação** (output) no ambiente através de seus atuadores.
 
