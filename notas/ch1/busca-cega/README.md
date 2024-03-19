@@ -32,9 +32,9 @@ Na tabela acima consideramos apenas buscas em grafos, pois para um espaço arbit
 
 ## Notebooks de aplicações
 
-- [Sliding-Puzzle](../exemplos/sliding-puzzle/sliding-puzzle.ipynb)
+- [Sliding-Puzzle](../exemplos/sliding-puzzle.ipynb)
 
-- [N-Queen-Problem]
+- [N-Queen-Problem](../exemplos//n-queen-problem.ipynb)
 
 ---
 
