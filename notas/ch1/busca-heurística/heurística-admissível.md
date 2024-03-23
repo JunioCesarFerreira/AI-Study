@@ -29,4 +29,9 @@ Sendo assim, a suposição de que existe um caminho $P'$ mais curto que o caminh
 
 ---
 
+## Observação
+Se $h_2(n)\ge h_1(n)$, $\forall n\in G$, sendo $h_1$ e $h_2$ heurísiticas admissíveis, então $h_2$ é melhor para busca em $G$. Como ambas são admissíveis, temos $h_1(n)\le h_2(n)\le h^*(n)$ como $h^*$ seria a melhor heurística para priorizar a expansão dos nós. Sendo assim, $h_2$ é mais proóximo de $h^*$ o que o torna mais eficaz ou igualmente eficaz na busca pela solução.
+
+---
+
 [Voltar ao README inicial](../../../README.md)
