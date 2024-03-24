@@ -12,7 +12,7 @@ Este repositório contém notas e exemplos sobre IA. A principal referência uti
 
 ### Resolvendo Problemas de Busca
 
-As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Problemas por Busca". Este explora como sistemas inteligentes utilizam estratégias de busca, tanto informadas (busca heurística) quanto não informadas (busca cega), para navegar eficientemente em espaços de estados e encontrar soluções para problemas complexos.
+As notas e códigos desta seção são baseadas no capítulo 3 *"Solving Problems by Searching"*. Este explora como sistemas inteligentes utilizam estratégias de busca, tanto informadas (busca heurística) quanto não informadas (busca cega), para navegar eficientemente em espaços de estados e encontrar soluções para problemas complexos.
 
 - [Busca Cega](./notas/ch1/busca-cega/README.md)
     - [Força Bruta](./notas/ch1/busca-cega/backtracking.md)
@@ -20,11 +20,17 @@ As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Probl
 - [Busca Heurística](./notas/ch1/busca-heurística/README.md)
     - [Busca Gulosa](./notas/ch1/busca-heurística/busca-gulosa.md)
     - [Busca A*](./notas/ch1/busca-heurística/busca-a-estrela.md)
+
+### Além da Busca Clássica
+
+As notas e códigos desta seção são baseadas no capítulo 4 *"Beyond Classical Search"*. No livro não é mensionado a metaheurística, no entanto, julgamos conveniente utilizar este termo para os algoritmos explorados nesta seção.
+
 - [Metaheurísticas](./notas/ch2/README.md)
     - [Subida de Encosta](./notas/ch2/busca-subida-encosta.md)
     - [Simulated Annealing](./notas/ch2/simulated-annealing.md)
     - [Algoritmos Genéticos](./notas/ch2/algoritmos-geneticos.md)
-- Busca com Adversários
+
+### Busca com Adversários
 
 
 ### Problemas de Satisfação de Restrições
