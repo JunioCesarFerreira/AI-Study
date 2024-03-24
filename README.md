@@ -20,7 +20,7 @@ As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Probl
 - [Busca Heurística](./notas/ch1/busca-heurística/README.md)
     - [Busca Gulosa](./notas/ch1/busca-heurística/busca-gulosa.md)
     - [Busca A*](./notas/ch1/busca-heurística/busca-a-estrela.md)
-- Metaheurísticas
+- [Metaheurísticas](./notas/ch2/README.md)
     - [Subida de Encosta](./notas/ch2/busca-subida-encosta.md)
     - [Simulated Annealing](./notas/ch2/simulated-annealing.md)
     - [Algoritmos Genéticos](./notas/ch2/algoritmos-geneticos.md)
