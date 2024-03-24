@@ -30,3 +30,7 @@ A Busca de Subida de Encosta é amplamente utilizada em diversos domínios, incl
 - Problemas de agendamento e alocação de recursos.
 - Jogos e puzzles, onde é necessário encontrar estratégias ou soluções ótimas.
 - Design e configuração de sistemas complexos para otimização de performance.
+
+---
+
+[Voltar ao README inicial](../../README.md)
