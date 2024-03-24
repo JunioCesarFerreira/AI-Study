@@ -23,7 +23,15 @@ As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Probl
 - Metaheurísticas
     - [Subida de Encosta](./notas/ch2/busca-subida-encosta.md)
     - [Simulated Annealing](./notas/ch2/simulated-annealing.md)
-    - [Algoritmos Genéricos](./notas/ch2/algoritmos-geneticos.md)
+    - [Algoritmos Genéticos](./notas/ch2/algoritmos-geneticos.md)
+- Busca com Adversários
+
+
+### Problemas de Satisfação de Restrições
+
+
+### Lógica de Predicados para Representação do Conhecimento
+
 
 ## Notebooks de exemplos em Python
 - [Sliding Puzzle](./notas/ch1/exemplos/sliding-puzzle.ipynb)
