@@ -28,6 +28,8 @@ As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Probl
 ## Notebooks de exemplos em Python
 - [Sliding Puzzle](./notas/ch1/exemplos/sliding-puzzle.ipynb)
 - [Busca em grafo: BFS, DFS, GBFS, A*](./notas/ch1/exemplos/graph-search.ipynb)
+- [Problema da N Rainhas](./notas/ch1/exemplos/n-queen-problem.ipynb)
+- [Metaheurísticas: Simulated Annealing e Algoritmos Genéticos](./notas/ch2/metaheuristics.ipynb)
 
 ## Apêndices
 - [Complexidade de Algoritmos e *Big O*](./notas/apendices/a-1.md)
