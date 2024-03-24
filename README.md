@@ -20,6 +20,10 @@ As notas e códigos desta seção são baseadas no capítulo 3 "Resolvendo Probl
 - [Busca Heurística](./notas/ch1/busca-heurística/README.md)
     - [Busca Gulosa](./notas/ch1/busca-heurística/busca-gulosa.md)
     - [Busca A*](./notas/ch1/busca-heurística/busca-a-estrela.md)
+- Metaheurísticas
+    - [Subida de Encosta](./notas/ch2/busca-subida-encosta.md)
+    - [Simulated Annealing](./notas/ch2/simulated-annealing.md)
+    - [Algoritmos Genéricos](./notas/ch2/algoritmos-geneticos.md)
 
 ## Notebooks de exemplos em Python
 - [Sliding Puzzle](./notas/ch1/exemplos/sliding-puzzle.ipynb)
