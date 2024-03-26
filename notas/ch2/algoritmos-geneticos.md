@@ -46,4 +46,4 @@ A principal vantagem dos AGs é sua robustez e flexibilidade, sendo capazes de e
 
 ---
 
-[Voltar ao README inicial](../../README.md)
+[Voltar ao README principal](../../README.md)

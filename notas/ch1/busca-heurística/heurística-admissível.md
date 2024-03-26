@@ -34,4 +34,4 @@ Se $h_2(n)\ge h_1(n)$, $\forall n\in G$, sendo $h_1$ e $h_2$ heurísiticas admis
 
 ---
 
-[Voltar ao README inicial](../../../README.md)
+[Voltar ao README principal](../../../README.md)

@@ -18,4 +18,4 @@ As metaheurísticas baseiam-se em conceitos inspirados por processos naturais, c
 
 ---
 
-[Voltar ao README inicial](../../README.md)
+[Voltar ao README principal](../../README.md)

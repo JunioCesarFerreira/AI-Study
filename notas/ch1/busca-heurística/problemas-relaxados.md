@@ -11,4 +11,4 @@ Observe que neste exemplo, a heurística $h_2\ge h_1$ e ambas são [heurísticas
 
 ---
 
-[Voltar ao README inicial](../../../README.md)
+[Voltar ao README principal](../../../README.md)

@@ -32,6 +32,11 @@ As notas e códigos desta seção são baseadas no capítulo 4 *"Beyond Classica
 
 ### Busca com Adversários
 
+As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Search"*. Em particular, focaremos nos dois principais algoritmos apresentados neste capítulo, o *Minimax* e a *Poda Alfa-Beta*.
+
+- [Busca com Adversários](./notas/ch3/README.md)
+    - [Minimax](./notas/ch3/minimax.md)
+    - [Poda Alfa-Beta](./notas/ch3/poda-alfa-beta.md)
 
 ### Problemas de Satisfação de Restrições
 

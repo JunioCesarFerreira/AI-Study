@@ -38,4 +38,4 @@ Aplicações de SA abrangem uma ampla gama de problemas, incluindo, mas não lim
 
 ---
 
-[Voltar ao README inicial](../../README.md)
+[Voltar ao README principal](../../README.md)

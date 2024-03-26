@@ -35,4 +35,4 @@ A Busca de Subida de Encosta é amplamente utilizada em diversos domínios, incl
 
 ---
 
-[Voltar ao README inicial](../../README.md)
+[Voltar ao README principal](../../README.md)
