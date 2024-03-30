@@ -34,7 +34,7 @@ SA é particularmente útil em problemas onde o espaço de busca é grande e a p
 
 Aplicações de SA abrangem uma ampla gama de problemas, incluindo, mas não limitado a, problemas de roteamento de veículos, programação de tarefas, design de circuitos, e muito mais.
 
-[Notebook de Exemplo](./metaheuristics.ipynb)
+[Notebook de Exemplo](../notebooks/metaheuristics.ipynb)
 
 ---
 

@@ -40,9 +40,9 @@ Os AGs são particularmente úteis para resolver problemas de otimização e bus
 
 A principal vantagem dos AGs é sua robustez e flexibilidade, sendo capazes de encontrar soluções de boa qualidade para problemas complexos sem a necessidade de conhecimento específico sobre o domínio do problema. Além disso, sua natureza paralela e estocástica os torna adequados para explorar espaços de solução complexos, evitando o aprisionamento em ótimos locais.
 
-[Notebook de Exemplo](./metaheuristics.ipynb)
+[Notebook de Exemplo](../notebooks/metaheuristics.ipynb)
 
-[Exemplo de solução do problema das N Rainhas](../ch1/exemplos/n-queen-problem.ipynb)
+[Exemplo de solução do problema das N Rainhas](../notebooks/n-queen-problem.ipynb)
 
 ---
 

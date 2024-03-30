@@ -8,6 +8,8 @@ Diferentemente da busca convencional, a busca com adversários considera a exist
 
 - [Poda Alfa-Beta](poda-alfa-beta.md)
 
+[Notebook de exemplos](../notebooks/minimax.ipynb)
+
 ---
 
 [Voltar ao README principal](../../README.md)

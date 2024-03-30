@@ -7,7 +7,7 @@ A ideia por trás de usar problemas relaxados é que, ao simplificar o problema,
 ### Exemplo Sliding-Puzzle
 No caso do sliding-puzzle, uma versão relaxada do problema permite permutar quaisquer peças, esta versão nos dá exatamente a heurística $h_1$ da distância de Hamming para este problema. Outra versão relaxada (que remove menos restriçõe que a anterior), consiste em considerar apenas os movimentos adjacentes sem considerar o espaço em branco, esta versão nos dá outra heurística $h_2$ que coencide com a distância de Manhattan. 
 
-Observe que neste exemplo, a heurística $h_2\ge h_1$ e ambas são [heurísticas admissíves](./heurística-admissível.md) sendo assim $h_2$ pode possuir um melhor desempenho que $h_1$, conforme apresentado no [notebook sliding-puzzle](../exemplos/sliding-puzzle.ipynb).
+Observe que neste exemplo, a heurística $h_2\ge h_1$ e ambas são [heurísticas admissíves](./heurística-admissível.md) sendo assim $h_2$ pode possuir um melhor desempenho que $h_1$, conforme apresentado no [notebook sliding-puzzle](../../notebooks/sliding-puzzle.ipynb).
 
 ---
 

@@ -38,6 +38,7 @@ As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Sea
     - [Minimax](./notas/ch3/minimax.md)
     - [Poda Alfa-Beta](./notas/ch3/poda-alfa-beta.md)
 
+
 ### Problemas de Satisfação de Restrições
 
 
@@ -45,10 +46,10 @@ As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Sea
 
 
 ## Notebooks de exemplos em Python
-- [Sliding Puzzle](./notas/ch1/exemplos/sliding-puzzle.ipynb)
-- [Busca em grafo: BFS, DFS, GBFS, A*](./notas/ch1/exemplos/graph-search.ipynb)
-- [Problema da N Rainhas](./notas/ch1/exemplos/n-queen-problem.ipynb)
-- [Metaheurísticas: Simulated Annealing e Algoritmos Genéticos](./notas/ch2/metaheuristics.ipynb)
+- [Sliding Puzzle](./notas/notebooks/sliding-puzzle.ipynb)
+- [Busca em grafo: BFS, DFS, GBFS, A*](./notas/ch1/exercise/graph-search.ipynb)
+- [Problema da N Rainhas](./notas/notebooks/n-queen-problem.ipynb)
+- [Metaheurísticas: Simulated Annealing e Algoritmos Genéticos](./notas/notebooks/metaheuristics.ipynb)
 
 ## Apêndices
 - [Complexidade de Algoritmos e *Big O*](./notas/apendices/a-1.md)
