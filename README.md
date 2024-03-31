@@ -50,6 +50,7 @@ As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Sea
 - [Busca em grafo: BFS, DFS, GBFS, A*](./notas/ch1/exercise/graph-search.ipynb)
 - [Problema da N Rainhas](./notas/notebooks/n-queen-problem.ipynb)
 - [Metaheurísticas: Simulated Annealing e Algoritmos Genéticos](./notas/notebooks/metaheuristics.ipynb)
+- [Minimax: Jogo da velha e Nim](./notas/notebooks/minimax.ipynb)
 
 ## Apêndices
 - [Complexidade de Algoritmos e *Big O*](./notas/apendices/a-1.md)
