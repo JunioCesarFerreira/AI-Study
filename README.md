@@ -48,7 +48,7 @@ As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Sea
 ## Notebooks de exemplos em Python
 - [Sliding Puzzle](./notas/notebooks/sliding-puzzle.ipynb)
 - [Busca em grafo: BFS, DFS, GBFS, A*](./notas/ch1/exercise/graph-search.ipynb)
-- [Problema da N Rainhas](./notas/notebooks/n-queen-problem.ipynb)
+- [Problema das N Rainhas](./notas/notebooks/n-queen-problem.ipynb)
 - [Metaheurísticas: Simulated Annealing e Algoritmos Genéticos](./notas/notebooks/metaheuristics.ipynb)
 - [Minimax: Jogo da velha e Nim](./notas/notebooks/minimax.ipynb)
 
