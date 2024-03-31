@@ -2,6 +2,8 @@
 
 Este repositório contém notas e exemplos sobre IA. A principal referência utilizada neste estudo é o livro [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/). Este livro oferece uma abrangente introdução ao campo da inteligência artificial. Abrangendo desde os fundamentos da IA até as técnicas mais avançadas, o livro se destaca por sua clareza na exposição dos temas e pela profundidade com que trata os conteúdos. Através de seus capítulos, são abordados tópicos como agentes inteligentes, resolução de problemas, busca, aprendizado de máquina, processamento de língua natural, robótica e muito mais.
 
+Este repositório contém notas em **markdown** e e demonstrações de aplicações Python no formato de **notebook Jupyter**. Os usuários podem explorar as notas diretamente online, sem a necessidade de baixar o repositório. No entanto, devido as limitações de renderização de **LaTeX** do Github, recomendamos o uso do VS Code com um pluggin de *Markdown Preview Github Styling* para visualizar as notas.
+
 # Guia do Repositório
 
 ## Notas
@@ -46,9 +48,9 @@ As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Sea
 
 
 ## Notebooks de exemplos em Python
-- [Sliding Puzzle](./notas/notebooks/sliding-puzzle.ipynb)
+- [Sliding Puzzle com diversas abordagens de solução](./notas/notebooks/sliding-puzzle.ipynb)
 - [Busca em grafo: BFS, DFS, GBFS, A*](./notas/ch1/exercise/graph-search.ipynb)
-- [Problema das N Rainhas](./notas/notebooks/n-queen-problem.ipynb)
+- [Problema das N Rainhas com diversas abordagens de solução](./notas/notebooks/n-queen-problem.ipynb)
 - [Metaheurísticas: Simulated Annealing e Algoritmos Genéticos](./notas/notebooks/metaheuristics.ipynb)
 - [Minimax: Jogo da velha e Nim](./notas/notebooks/minimax.ipynb)
 
@@ -56,3 +58,4 @@ As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Sea
 - [Complexidade de Algoritmos e *Big O*](./notas/apendices/a-1.md)
 - [Breve revisão de Álgebra Linear](./notas/apendices/a-2.md)
 - [Breve revisão de Probabilidas e Distribuições](./notas/apendices/a-3.md)
+- [Abordagens de cálculo de distância no problema das N rainhas](./notas/apendices/a-4.md)
