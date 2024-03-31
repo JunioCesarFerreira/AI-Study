@@ -2,7 +2,7 @@
 
 Este repositório contém notas e exemplos sobre IA. A principal referência utilizada neste estudo é o livro [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/). Este livro oferece uma abrangente introdução ao campo da inteligência artificial. Abrangendo desde os fundamentos da IA até as técnicas mais avançadas, o livro se destaca por sua clareza na exposição dos temas e pela profundidade com que trata os conteúdos. Através de seus capítulos, são abordados tópicos como agentes inteligentes, resolução de problemas, busca, aprendizado de máquina, processamento de língua natural, robótica e muito mais.
 
-Este repositório contém notas em **markdown** e e demonstrações de aplicações Python no formato de **notebook Jupyter**. Os usuários podem explorar as notas diretamente online, sem a necessidade de baixar o repositório. No entanto, devido as limitações de renderização de **LaTeX** do Github, recomendamos o uso do VS Code com um pluggin de *Markdown Preview Github Styling* para visualizar as notas.
+Este repositório contém notas em **markdown** e e demonstrações de aplicações Python no formato de **notebook Jupyter**. Os usuários podem explorar as notas diretamente online, sem a necessidade de baixar o repositório. No entanto, devido as limitações de renderização (Março de 2024) de **[LaTeX](https://github.com/KaTeX/KaTeX/blob/5806b240b342b964bcde3441d3ae7bfa7222c3b4/docs/support_table.md)** do Github, recomendamos o uso do VS Code com um pluggin de *Markdown Preview Github Styling* para visualizar as notas.
 
 # Guia do Repositório
 
@@ -43,6 +43,11 @@ As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Sea
 
 ### Problemas de Satisfação de Restrições
 
+As notas desta seção são baseadas no capítulo 6 *"Constraint Satisfaction Problems"*.
+
+- [CSP](./notas/ch4/README.md)
+    - [Definição formal](./notas/ch4/csp.md)
+    - [Algoritmo Geral](./notas/ch4/algoritmo-resolver-csp.md)
 
 ### Lógica de Predicados para Representação do Conhecimento
 
