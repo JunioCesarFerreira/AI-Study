@@ -24,7 +24,7 @@
    - Se nenhum valor pode ser atribuído à variável atual sem violar restrições, desfaça a última atribuição e retorne ao passo 2 para tentar uma nova atribuição.
 
 8. **Otimizações e Heurísticas:**
-   - Durante todo o processo, aplique otimizações e heurísticas para melhorar a eficiência, como a consistência de arco (AC-3) ou técnicas mais avançadas de inferência para detectar inconsistências antecipadamente.
+   - Durante todo o processo, aplique otimizações e heurísticas para melhorar a eficiência, como a consistência de arco ([AC-3](ac-3.md)) ou técnicas mais avançadas de inferência para detectar inconsistências antecipadamente.
 
 ### Observações:
 
