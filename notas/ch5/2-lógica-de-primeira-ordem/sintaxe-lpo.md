@@ -27,3 +27,5 @@ A sintaxe da LPO é construída a partir de vários tipos de símbolos:
 
 ### Regras de Formação
 As **regras de formação** especificam como os símbolos do alfabeto podem ser combinados para formar fórmulas bem-formadas. Essas regras garantem que as expressões geradas sejam semanticamente válidas dentro do sistema lógico.
+
+Veja uma definição em [gramática da LPO](gramática-lpo.md).
