@@ -1,6 +1,5 @@
 # Apêndices
 
-
 ## A.1. [Complexidade de Algoritmos e *Big O*](a-1.md)
 
 ## A.2. [Breve revisão de Álgebra Linear](a-2.md)

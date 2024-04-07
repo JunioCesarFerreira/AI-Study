@@ -1,6 +1,6 @@
 # Cláusula
 
-Uma **cláusula** é uma disjunção de literais. Pode ser vista como um conjunto de literais onde a disjunção ($\lor$) entre eles é entendida como "ou". Existem dois tipos principais de cláusulas:
+Uma **cláusula** é uma disjunção de [literais](./literal.md). Existem dois tipos principais de cláusulas:
 
 - **Cláusula Unitária**: Contém apenas um literal.
 - **Cláusula Vazia**: Não contém nenhum literal, representada por $\square$, e é considerada insatisfatória em qualquer interpretação.

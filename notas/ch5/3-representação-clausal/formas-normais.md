@@ -6,4 +6,4 @@ Uma fórmula da Lógica de Primeira Ordem está na **Forma Normal Prenex** se to
 
 ### Forma Normal Conjuntiva (FNC)
 
-Uma fórmula está na **Forma Normal Conjuntiva** se for uma conjunção de disjunções de literais. Um literal é uma fórmula atômica ou a negação de uma fórmula atômica. Formalmente, uma fórmula $\phi$ está na FNC se puder ser expressa como $\phi = C_1 \land C_2 \land \ldots \land C_n$, onde cada $C_i$ é uma cláusula da forma $L_{i1} \lor L_{i2} \lor \ldots \lor L_{ik}$, e cada $L_{ij}$ é um literal.
+Uma fórmula está na **Forma Normal Conjuntiva** se for uma conjunção de disjunções de [literais](literal.md). Um literal é uma fórmula atômica ou a negação de uma fórmula atômica. Formalmente, uma fórmula $\phi$ está na FNC se puder ser expressa como $\phi = C_1 \land C_2 \land \ldots \land C_n$, onde cada $C_i$ é uma cláusula da forma $L_{i1} \lor L_{i2} \lor \ldots \lor L_{ik}$, e cada $L_{ij}$ é um literal.

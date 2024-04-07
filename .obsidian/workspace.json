@@ -16,6 +16,42 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "287d020f92d4894b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/ch5/3-representação-clausal/clausula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6159707e61ded108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/ch5/3-representação-clausal/literal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4639a974dbb8d4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/ch5/3-representação-clausal/formas-normais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -142,10 +178,15 @@
   },
   "active": "3c5221fe5064c337",
   "lastOpenFiles": [
+    "notas/ch5/3-representação-clausal/literal.md",
+    "notas/ch5/3-representação-clausal/formas-normais.md",
+    "notas/ch5/3-representação-clausal/clausula.md",
+    "notas/apendices/a-2.md",
+    "notas/apendices/README.md",
+    "notas/apendices/a-1.md",
     "notas/ch5/3-representação-clausal/README.md",
     "recursos/computing-machinery-and-intelligence.md",
     "notas/ch5/2-lógica-de-primeira-ordem/README.md",
-    "notas/ch5/1-lógica-proposicional/README.md",
-    "notas/apendices/a-2.md"
+    "notas/ch5/1-lógica-proposicional/README.md"
   ]
 }
