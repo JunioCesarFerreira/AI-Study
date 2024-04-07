@@ -4,9 +4,9 @@ As buscas heurísticas, ou buscas informadas, utilizam conhecimento específico 
 
 As duas principais categorias são:
 
-- [Busca Greedy (Gulosa)](./busca-heuristica/busca-greedy.md)
+- [Busca Greedy (Gulosa)](./busca-gulosa.md)
 
-- [Busca A* (A estrela)](./busca-heuristica/busca-a-estrela.md)
+- [Busca A* (A estrela)](./busca-a-estrela.md)
 
 ### Comparação dos Algoritmos de Busca Heurística
 
@@ -28,6 +28,8 @@ Na tabela acima, $b$ é o fator de ramificação, $d$ é a profundidade da solu�
 - [Sliding-Puzzle](../../notebooks/sliding-puzzle.ipynb)
 
 - [N-Queen-Problem](../../notebooks/n-queen-problem.ipynb)
+
+- [Exercício de exemplo](../../notebooks/graph-search.ipynb)
 
 
 ## Tópicos adicionais
