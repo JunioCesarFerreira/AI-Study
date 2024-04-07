@@ -12,34 +12,48 @@ Este repositório contém notas em **markdown** e demonstrações de aplicaçõe
 
 Nestas notas iniciais apresentamos as definições de agentes inteligêntes e formulação de problemas. Estes assuntos são abordados em profundidade nos capítulos 1 e 2 da referência bibliografica na qual estas notas são baseadas.
 
-### Resolvendo Problemas de Busca
+### [Resolvendo Problemas de Busca](./notas/ch1/README.md)
 
 As notas e códigos desta seção são baseadas no capítulo 3 *"Solving Problems by Searching"*. Este explora como sistemas inteligentes utilizam estratégias de busca, tanto informadas (busca heurística) quanto não informadas (busca cega), para navegar eficientemente em espaços de estados e encontrar soluções para problemas complexos.
 
-- [Busca Cega](./notas/ch1/busca-cega/README.md)
-- [Busca Heurística](./notas/ch1/busca-heurística/README.md)
+- Busca Cega
+    - Força Bruta
+    - Busca em Grafos
+- Busca Heurística
+    - Busca Gulosa
+    - Busca A*
 
-### Além da Busca Clássica
+### [Além da Busca Clássica](./notas/ch2/README.md)
 
 As notas e códigos desta seção são baseadas no capítulo 4 *"Beyond Classical Search"*. No livro não é mensionado a metaheurística, no entanto, julgamos conveniente utilizar este termo para os algoritmos explorados nesta seção.
 
-- [Metaheurísticas](./notas/ch2/README.md)
+- Metaheurísticas
+    - Subida de Encosta
+    - Simulated Annealing
+    - Algoritmos Genéticos
 
-### Busca com Adversários
+### [Busca com Adversários](./notas/ch3/README.md)
 
 As notas e códigos desta seção são baseadas no capítulo 5 *"Adversarial Search"*. Em particular, focaremos nos dois principais algoritmos apresentados neste capítulo, o *Minimax* e a *Poda Alfa-Beta*.
 
-- [Busca com Adversários](./notas/ch3/README.md)
+- Busca com Adversários
+    - Minimax
+    - Poda Alfa-Beta
 
-### Problemas de Satisfação de Restrições
+
+### [Problemas de Satisfação de Restrições](./notas/ch4/README.md)
 
 As notas desta seção são baseadas no capítulo 6 *"Constraint Satisfaction Problems"*.
 
-- [CSP](./notas/ch4/README.md)
+- CSP
+    - Definição formal
+    - Algoritmo Geral
 
-### Lógica de Predicados para Representação do Conhecimento
+### [Lógica de Predicados para Representação do Conhecimento](./notas/ch5/README.md)
 
-- [Lógica de Primeira Ordem](./notas/ch5/README.md)
+- Lógica Proposicional
+- Lógica de Primeira Ordem
+- Representação Clausal
 
 ## [Apêndices](./notas/apendices/README.md)
 - Complexidade de Algoritmos e *Big O*
