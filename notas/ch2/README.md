@@ -15,7 +15,3 @@ As metaheurísticas baseiam-se em conceitos inspirados por processos naturais, c
 - [Busca por Subida de Encosta](./busca-subida-encosta.md)
 - [Algoritmos Genéticos](./algoritmos-geneticos.md)
 - [Simulated Annealing](./simulated-annealing.md)
-
----
-
-[Voltar ao README principal](../../README.md)

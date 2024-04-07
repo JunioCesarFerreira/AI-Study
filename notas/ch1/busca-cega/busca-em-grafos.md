@@ -36,7 +36,3 @@ Sendo:
 - `vizinho`: Qualquer nó diretamente conectado ao nó atual por uma aresta, que ainda não foi visitado.
 
 Este procedimento pode ser adaptado para BFS ou DFS dependendo da estrutura de dados escolhida para armazenar os nós durante a busca (fila para BFS, pilha para DFS). Essa flexibilidade permite que o algoritmo seja utilizado para uma ampla gama de problemas, desde a simples verificação de conectividade até a busca do caminho mais curto.
-
----
-
-[Voltar ao README principal](../../../README.md)

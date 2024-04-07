@@ -13,6 +13,3 @@ A poda alfa-beta aprimora o Minimax ao "podar" (ou seja, eliminar) ramos da árv
    
 2. **Corte Beta**: Ocorre quando o valor de um nó é menor ou igual a alfa. Neste caso, o maximizador (jogador que maximiza o score) já encontrou uma opção melhor anteriormente (maior que o valor de alfa), então este nó e seus descendentes podem ser ignorados.
 
----
-
-[Voltar ao README principal](../../README.md)

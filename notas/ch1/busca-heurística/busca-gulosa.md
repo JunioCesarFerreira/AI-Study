@@ -37,7 +37,3 @@ Neste esboço:
 - **FUNÇÃO_HEURÍSTICA** é uma função que estima o custo de um estado até o objetivo. Esta função é crucial para o desempenho do algoritmo e deve ser escolhida de acordo com o problema específico.
 - **ESTADO_OBJETIVO** é o estado que o algoritmo tenta alcançar.
 - **ESTADO_SUCESSOR** representa os possíveis estados seguintes que podem ser alcançados a partir do estado atual.
-
----
-
-[Voltar ao README principal](../../../README.md)

@@ -33,6 +33,3 @@
 
 A chave para solucionar CSPs eficientemente é a seleção inteligente de variáveis e valores, junto com a aplicação de técnicas para reduzir o espaço de busca e detectar caminhos inviáveis o mais cedo possível.
 
----
-
-[Voltar ao README principal](../../README.md)

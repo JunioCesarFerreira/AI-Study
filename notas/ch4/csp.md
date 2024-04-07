@@ -18,6 +18,3 @@ Um exemplo simples de um CSP é o problema das $N$ rainhas, no qual $N$ rainhas 
 
 As soluções para um CSP são atribuições consistentes de valores às variáveis que satisfazem todas as restrições. Encontrar uma solução para um CSP geralmente envolve a aplicação de algoritmos de busca, como a busca com retrocesso, a fim de explorar eficientemente o espaço de soluções em busca de uma atribuição consistente que satisfaça todas as restrições.
 
----
-
-[Voltar ao README principal](../../README.md)

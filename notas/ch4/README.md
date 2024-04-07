@@ -23,6 +23,3 @@ CSPs são amplamente aplicáveis na solução de problemas do mundo real, inclui
 - [Resolução do problema das N rainhas](../notebooks/n-queen-problem.ipynb)
 - [Resolução de coloração de grafos](../notebooks/graph-coloring.ipynb)
 
----
-
-[Voltar ao README principal](../../README.md)

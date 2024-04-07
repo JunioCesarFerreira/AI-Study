@@ -44,6 +44,3 @@ A principal vantagem dos AGs é sua robustez e flexibilidade, sendo capazes de e
 
 [Exemplo de solução do problema das N Rainhas](../notebooks/n-queen-problem.ipynb)
 
----
-
-[Voltar ao README principal](../../README.md)

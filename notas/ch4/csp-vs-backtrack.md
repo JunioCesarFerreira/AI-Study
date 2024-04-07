@@ -17,6 +17,3 @@ A solução de CSPs pode utilizar backtracking, o que por vezes faz parecer que 
 **Diferença Chave:**
 A principal diferença é que CSP é um tipo de problema ou uma forma de modelar problemas complexos que requerem a satisfação de várias restrições, enquanto o Backtracking é uma técnica de solução que pode ser aplicada a CSPs e outros tipos de problemas que necessitam explorar sistematicamente as possibilidades até encontrar uma solução que atenda a todas as condições. O Backtracking é, portanto, um método para resolver CSPs, entre outros problemas, e não um tipo de problema em si.
 
----
-
-[Voltar ao README principal](../../README.md)

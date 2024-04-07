@@ -20,6 +20,3 @@ O algoritmo AC-3, por exemplo, opera mantendo uma fila de todos os arcos do CSP 
 - **Detecção Precoce de Falhas:** A consistência dos arcos pode detectar antecipadamente se uma variável ficou sem valores válidos, indicando que o caminho atual da busca não levará a uma solução e deve ser abandonado (backtracking).
 - **Simplificação do Problema:** Em alguns casos, a aplicação da consistência dos arcos pode até resolver completamente o problema, sem necessidade de uma busca explícita.
 
----
-
-[Voltar ao README principal](../../README.md)

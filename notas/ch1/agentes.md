@@ -20,6 +20,3 @@ Os ambientes em que os agentes operam podem variar amplamente em complexidade e 
 
 A compreensão e modelagem adequadas do ambiente são cruciais para o design de um agente eficaz. A estratégia do agente para alcançar seus objetivos depende não apenas de suas capacidades e tarefas, mas também das propriedades do ambiente em que opera.
 
----
-
-[Voltar ao README principal](../../README.md)

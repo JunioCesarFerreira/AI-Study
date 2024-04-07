@@ -18,7 +18,4 @@ Em geral:
 - $u(x)\rightarrow +\infty$: agente ganha e oponente perde.
 - $u(x)\rightarrow -\infty$: oponente ganha e agente perde.
 
----
-
-[Voltar ao README principal](../../README.md)
 

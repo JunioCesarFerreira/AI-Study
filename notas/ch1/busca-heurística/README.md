@@ -33,7 +33,3 @@ Na tabela acima, $b$ é o fator de ramificação, $d$ é a profundidade da solu�
 ## Tópicos adicionais
 
 - [Geração de heurísticas admissíveis a partir de Problemas Relaxados](./problemas-relaxados.md)
-
----
-
-[Voltar ao README principal](../../../README.md)

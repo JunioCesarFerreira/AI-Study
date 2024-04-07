@@ -32,7 +32,4 @@ onde $N'$ são os sucessores de $N$.
 
 O método Minimax garante que, contra um adversário ótimo, o jogador alcançará ao menos o resultado representado pelo valor do nó raiz da árvore de jogo. Isso é baseado na suposição de que ambos os jogadores jogam otimamente durante todo o jogo.
 
----
-
-[Voltar ao README principal](../../README.md)
 

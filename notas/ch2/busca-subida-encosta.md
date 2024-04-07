@@ -32,7 +32,3 @@ A Busca de Subida de Encosta é amplamente utilizada em diversos domínios, incl
 - Design e configuração de sistemas complexos para otimização de performance.
 
 [Exemplo para o problema da N Rainhas](../notebooks/n-queen-problem.ipynb)
-
----
-
-[Voltar ao README principal](../../README.md)

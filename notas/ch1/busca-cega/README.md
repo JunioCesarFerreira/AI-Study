@@ -35,7 +35,3 @@ Na tabela acima consideramos apenas buscas em grafos, pois para um espaço arbit
 - [Sliding-Puzzle](../../notebooks/sliding-puzzle.ipynb)
 
 - [N-Queen-Problem](../../notebooks/n-queen-problem.ipynb)
-
----
-
-[Voltar ao README principal](../../../README.md)
