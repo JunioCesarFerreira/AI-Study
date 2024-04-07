@@ -8,9 +8,9 @@ Este repositório contém notas em **markdown** e demonstrações de aplicaçõe
 
 ## Notas
 
-### Resolvendo Problemas
-- [Agentes](./notas/ch1/agentes.md)
-- [Formulação de Problemas](./notas/ch1/formulação-do-problema.md)
+### [Breve Introdução](./notas/ch0/README.md)
+
+Nestas notas iniciais apresentamos as definições de agentes inteligêntes e formulação de problemas. Estes assuntos são abordados em profundidade nos capítulos 1 e 2 da referência bibliografica na qual estas notas são baseadas.
 
 ### Resolvendo Problemas de Busca
 
@@ -41,8 +41,8 @@ As notas desta seção são baseadas no capítulo 6 *"Constraint Satisfaction Pr
 
 - [Lógica de Primeira Ordem](./notas/ch5/README.md)
 
-## Apêndices
-- [Complexidade de Algoritmos e *Big O*](./notas/apendices/a-1.md)
-- [Breve revisão de Álgebra Linear](./notas/apendices/a-2.md)
-- [Breve revisão de Probabilidas e Distribuições](./notas/apendices/a-3.md)
-- [Abordagens de cálculo de distância no problema das N rainhas](./notas/apendices/a-4.md)
+## [Apêndices](./notas/apendices/README.md)
+- Complexidade de Algoritmos e *Big O*
+- Breve revisão de Álgebra Linear
+- Breve revisão de Probabilidas e Distribuições
+- Abordagens de cálculo de distância no problema das N rainhas
