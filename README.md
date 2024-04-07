@@ -51,6 +51,7 @@ As notas desta seção são baseadas no capítulo 6 *"Constraint Satisfaction Pr
 
 ### Lógica de Predicados para Representação do Conhecimento
 
+- [Lógica de Primeira Ordem](./notas/ch5/README.md)
 
 ## Notebooks de exemplos em Python
 - [Sliding Puzzle com diversas abordagens de solução](./notas/notebooks/sliding-puzzle.ipynb)
