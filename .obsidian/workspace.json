@@ -52,8 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "318d71736dc6283b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/ch5/3-representação-clausal/linguagem-clausulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notas/ch5/3-representação-clausal/linguagem-clausulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notas/ch5/3-representação-clausal/linguagem-clausulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notas/ch5/3-representação-clausal/linguagem-clausulas.md"
+              }
             }
           }
         ]
@@ -176,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c5221fe5064c337",
+  "active": "318d71736dc6283b",
   "lastOpenFiles": [
     "notas/ch5/3-representação-clausal/linguagem-clausulas.md",
     "notas/ch5/3-representação-clausal/literal.md",

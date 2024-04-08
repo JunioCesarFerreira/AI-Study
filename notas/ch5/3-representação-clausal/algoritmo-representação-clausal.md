@@ -2,8 +2,6 @@
 
 O Algoritmo de Representação Clausal é uma metodologia computacional utilizada para transformar fórmulas da LPO em uma forma clausal, facilitando processos de inferência, como resolução e busca em bases de conhecimento.
 
-## Introdução
-
 O objetivo do algoritmo de representação clausal é converter qualquer fórmula da LPO em um conjunto de cláusulas, que são mais simples de se trabalhar em termos computacionais. Uma cláusula é uma disjunção de literais, e um literal pode ser uma variável ou a negação de uma variável.
 
 ## Pré-requisitos
