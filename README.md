@@ -55,6 +55,18 @@ As notas desta seção são baseadas no capítulo 6 *"Constraint Satisfaction Pr
 - Lógica de Primeira Ordem
 - Representação Clausal
 
+### [Prova Automática de Teoremas ou Dedução Automática](./notas/ch6/README.md)
+
+- Resolução
+- Estratégia de Controle
+- Simplificação
+
+### [Raciocínio Baseado em Regras](./notas/ch7/README.md)
+
+- Baseados em Conhecimento
+- Progressivo
+- Regressivo
+
 ## [Apêndices](./notas/apendices/README.md)
 - Complexidade de Algoritmos e *Big O*
 - Breve revisão de Álgebra Linear
