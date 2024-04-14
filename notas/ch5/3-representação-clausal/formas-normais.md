@@ -4,8 +4,34 @@
 
 Uma fórmula da Lógica de Primeira Ordem está na **Forma Normal Prenex** se todos os seus quantificadores estão à frente da fórmula, sem estar entremeados por outros operadores lógicos. Formalmente, uma fórmula está na forma normal prenex se puder ser escrita na forma $Q_1x_1 Q_2x_2 \ldots Q_nx_n \cdot \phi$, onde cada $Q_i$ é um quantificador (universal $\forall$ ou existencial $\exists$), cada $x_i$ é uma variável, e $\phi$ é uma fórmula sem quantificadores, chamada de matriz da fórmula.
 
+### Forma Normal
+
+Uma fórmula está na **Forma Normal** se for composta apenas de  conjunções e disjunções de [literais](literal.md). Um literal é uma fórmula atômica ou a negação de uma fórmula atômica.
+
+As **Formas Normais Conjuntiva (FNC)** e **Forma Normal Disjuntiva (FND)** são métodos de organização de fórmulas lógicas que facilitam a análise e manipulação em lógica proposicional. Vamos descrever cada uma usando uma gramática formal simplificada, que especifica como as fórmulas podem ser construídas.
+
 ### Forma Normal Conjuntiva (FNC)
 
-Uma fórmula está na **Forma Normal Conjuntiva** se for uma conjunção de disjunções de [literais](literal.md). Um literal é uma fórmula atômica ou a negação de uma fórmula atômica. Formalmente, uma fórmula $\phi$ está na FNC se puder ser expressa como $\phi = C_1 \land C_2 \land \ldots \land C_n$, onde cada $C_i$ é uma cláusula da forma $L_{i1} \lor L_{i2} \lor \ldots \lor L_{ik}$, e cada $L_{ij}$ é um literal.
+A FNC é uma conjunção de cláusulas, onde cada cláusula é uma disjunção de literais. Um literal é uma proposição atômica ou sua negação.
 
-Na forma normal conjuntiva, uma fórmula da LPO é expressa como uma conjunção de cláusulas, onde cada cláusula é uma disjunção de literais. Isso é importante para técnicas de raciocínio e inferência, pois muitos algoritmos de solução de problemas e de prova de teoremas operam sobre fórmulas nessa forma.
+- **Símbolos terminais:** variáveis proposicionais (p, q, r, ...), negação (¬), disjunção (∨), conjunção (∧), e parênteses.
+- **Símbolos não-terminais:** Fórmula (F), Cláusula (C), Literal (L).
+- **Regras de produção:**
+  1. F → C
+  2. F → F ∧ C
+  3. C → L
+  4. C → C ∨ L
+  5. L → p | ¬p (onde p é uma variável proposicional)
+
+### Forma Normal Disjuntiva (FND)
+
+A FND é uma disjunção de conjunções de literais. Cada conjunto de literais conectados por conjunções é tratado como um termo da disjunção.
+
+- **Símbolos terminais:** variáveis proposicionais (p, q, r, ...), negação (¬), disjunção (∨), conjunção (∧), e parênteses.
+- **Símbolos não-terminais:** Fórmula (F), Termo (T), Literal (L).
+- **Regras de produção:**
+  1. F → T
+  2. F → F ∨ T
+  3. T → L
+  4. T → T ∧ L
+  5. L → p | ¬p (onde p é uma variável proposicional)

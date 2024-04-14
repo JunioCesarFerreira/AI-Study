@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/ch6/README.md",
+                "file": "notas/ch1/busca-heurística/heurística-admissível.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notas/ch1/busca-heurística/heurística-admissível.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notas/ch1/busca-heurística/heurística-admissível.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notas/ch1/busca-heurística/heurística-admissível.md"
+              }
             }
           }
         ]
@@ -188,10 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c5221fe5064c337",
+  "active": "6e564fdd0d6be7ab",
   "lastOpenFiles": [
-    "notas/ch5/3-representação-clausal/linguagem-clausulas.md",
+    "notas/ch5/3-representação-clausal/formas-normais.md",
+    "notas/ch5/3-representação-clausal/literal.md",
+    "notas/ch1/busca-cega/busca-em-grafos.md",
     "notas/ch6/README.md",
+    "recursos/~$diagramas-2.drawio.bkp",
+    "notas/ch5/3-representação-clausal/linguagem-clausulas.md",
     "notas/ch5/2-lógica-de-primeira-ordem/semantica-lpo.md",
     "notas/ch6/1-resolução/método-da-resolução.md",
     "notas/ch5/1-lógica-proposicional/semantica-proposicional.md",
@@ -205,16 +214,13 @@
     "notas/ch6/2-estratégias-de-controle",
     "notas/ch6/1-resolução",
     "notas/ch5/3-representação-clausal/README.md",
-    "notas/ch5/3-representação-clausal/literal.md",
     "notas/ch5/README.md",
     "README.md",
     "notas/ch5/1-lógica-proposicional/sintaxe-proposicional.md",
     "notas/ch5/1-lógica-proposicional/README.md",
     "notas/ch5/1-lógica-proposicional/gramática-cálculo-proposicional.md",
     "notas/ch6",
-    "notas/ch5/3-representação-clausal/formas-normais.md",
     "notas/apendices/a-4.md",
-    "recursos/~$diagramas-2.drawio.bkp",
     "notas/notebooks/lpo.ipynb",
     "notas/apendices/a-2.md",
     "notas/apendices/README.md",
