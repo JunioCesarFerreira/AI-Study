@@ -13,13 +13,11 @@ A estrutura do problema em CSPs pode ser explorada para simplificar a busca por 
 CSPs são amplamente aplicáveis na solução de problemas do mundo real, incluindo tarefas de agendamento, atribuição, planejamento, configuração de sistemas, e design de circuitos integrados, entre outros. Muitos destes problemas envolvem variáveis contínuas e requerem a aplicação de técnicas de programação linear para sua resolução. A capacidade de representar e solucionar estes problemas como CSPs facilita a identificação de soluções eficientes e a aplicação de solucionadores CSP especializados.
 
 #### Notas
-
 - [Definição formal de CSP](csp.md)
 - [Algoritmo Geral para solução de CSP](algoritmo-resolver-csp.md)
 - [Observação sobre Backtracking e CSP](csp-vs-backtrack.md)
 
 #### Exemplos
-
 - [Resolução do problema das N rainhas](../notebooks/n-queen-problem.ipynb)
 - [Resolução de coloração de grafos](../notebooks/graph-coloring.ipynb)
 
