@@ -67,6 +67,12 @@ As notas desta seção são baseadas no capítulo 6 *"Constraint Satisfaction Pr
 - Progressivo
 - Regressivo
 
+### [Quantificando a Incerteza](./notas/ch7/README.md)
+
+- Lógica
+- Probabilidade
+- Incerteza
+
 ## [Apêndices](./notas/apendices/README.md)
 - Complexidade de Algoritmos e *Big O*
 - Breve revisão de Álgebra Linear
